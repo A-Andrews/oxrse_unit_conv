@@ -31,3 +31,6 @@ mol = mole
 
 candela = classes.SIUnit("candela", "cd")
 cd = candela
+
+sparkles = classes.SIUnit("sparkles", "spk")
+spk = sparkles
